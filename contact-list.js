@@ -10,7 +10,11 @@ let nuevaLista = listaContactos.filter((contacto) => contacto !== contactoABorra
 listaContactos = nuevaLista 
 }
 
-borrarContacto("AbnerJimenez")
-agregarContacto("Alejandra")
-console.log(agregarContacto("Jonathan"));
+function imprimirContactos (){
+console.log(listaContactos)
+}
 
+agregarContacto("Keren")
+imprimirContactos()
+borrarContacto("FelipeCalvache")
+imprimirContactos()
