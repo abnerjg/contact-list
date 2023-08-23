@@ -33,7 +33,25 @@ let nuevoContacto = {
     Ubicaciones: {Ciudad: "La Ceiba", Direccion: "Barrio Tamarindo"},
 }
 
+let cambiarItem = {
+    id: "2", 
+Nombre: "Jonathan", 
+Apellido: "Gomez",
+Telefono: "31919225",
+Ubicaciones: {Ciudad: "La Ceiba", Direccion: "Barrio Tamarindo"}
+};
+
+// Enfoque 1: Notación de punto
+//cambiarItem.Nombre = "Sandra";
+
+// Enfoque 2: Notación de corchetes
+//cambiarItem["Nombre"] = "Josefa";
+
+console.log(cambiarItem); // Mostrará el objeto actualizado
+
+
+
 //agregarContacto(nuevoContacto)
 //imprimirContactos()
-borrarContacto(2)
-imprimirContactos()
+//borrarContacto("1")
+//imprimirContactos()
