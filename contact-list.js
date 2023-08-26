@@ -14,7 +14,7 @@ function imprimirContactos (){
 console.log(listaContactos)
 }
 
-agregarContacto("Keren")
-imprimirContactos()
-borrarContacto("FelipeCalvache")
-imprimirContactos()
+//agregarContacto("Julio")
+//imprimirContactos()
+//borrarContacto("FelipeCalvache")
+//imprimirContactos()
