@@ -49,8 +49,6 @@ Ubicaciones: {Ciudad: "La Ceiba", Direccion: "Barrio Tamarindo"}
 
 console.log(cambiarItem); // Mostrará el objeto actualizado
 
-
-
 //agregarContacto(nuevoContacto)
 //imprimirContactos()
 //borrarContacto("1")
