@@ -45,7 +45,7 @@ Ubicaciones: {Ciudad: "La Ceiba", Direccion: "Barrio Tamarindo"}
 //cambiarItem.Nombre = "Sandra";
 
 // Enfoque 2: Notación de corchetes
-//cambiarItem["Nombre"] = "Josefa";
+//cambiarItem["Nombre"] = "Barrio";
 
 // Mostrará el objeto actualizado
 //console.log(cambiarItem); 
