@@ -16,5 +16,5 @@ console.log(listaContactos)
 
 //agregarContacto("Julio")
 //imprimirContactos()
-//borrarContacto("FelipeCalvache")
-//imprimirContactos()
+borrarContacto("FelipeCalvache")
+imprimirContactos()
