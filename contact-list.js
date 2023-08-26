@@ -42,13 +42,13 @@ Ubicaciones: {Ciudad: "La Ceiba", Direccion: "Barrio Tamarindo"}
 };
 
 // Enfoque 1: Notación de punto
-//cambiarItem.Nombre = "Sandra";
+cambiarItem.Nombre = "Sandra";
 
 // Enfoque 2: Notación de corchetes
 //cambiarItem["Nombre"] = "Barrio";
 
 // Mostrará el objeto actualizado
-//console.log(cambiarItem); 
+console.log(cambiarItem); 
 
 //agregarContacto(nuevoContacto)
 //imprimirContactos()
